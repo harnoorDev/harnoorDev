@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harnoorDev
 - 👀 I’m interested in programming in Java, C++ and C#
-- 🌱 I’m currently learning Unity for game development and also working on creating some WPF applications
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working as a Azure Cloud Engineer
+- 💞️ I’m looking to learn more about various frameworks such as Node.js, TypeScript, React.js
 - 📫 How to reach me - You can reach me at harnoor24@outlook.com
 
 <!---
